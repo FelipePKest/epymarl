@@ -1,0 +1,53 @@
+2024-08-16 13:47:38 INFO open for scan: /home/fpkest/Mestrado/epymarl/wandb/offline-run-20240815_140348-nhkjwhkw/run-nhkjwhkw.wandb
+2024-08-16 13:47:39 INFO watching files in: /home/fpkest/Mestrado/epymarl/wandb/offline-run-20240815_140348-nhkjwhkw/files
+2024-08-16 13:47:39 INFO run started: nhkjwhkw with start time 1723741428.794382
+2024-08-16 13:47:39 INFO saving file wandb-metadata.json with policy now
+2024-08-16 13:47:39 INFO saving file wandb-summary.json with policy end
+2024-08-16 13:47:39 INFO handling exit code: 0
+2024-08-16 13:47:39 INFO handling runtime: 9221
+2024-08-16 13:47:39 INFO saving file wandb-summary.json with policy end
+2024-08-16 13:47:39 INFO send defer
+2024-08-16 13:47:39 INFO handle sender defer: 0
+2024-08-16 13:47:39 INFO send defer: 1
+2024-08-16 13:47:39 INFO handle sender defer: 1
+2024-08-16 13:47:39 INFO send defer: 2
+2024-08-16 13:47:39 INFO handle sender defer: 2
+2024-08-16 13:47:39 INFO send defer: 3
+2024-08-16 13:47:39 INFO handle sender defer: 3
+2024-08-16 13:47:39 INFO send defer: 4
+2024-08-16 13:47:39 INFO handle sender defer: 4
+2024-08-16 13:47:39 INFO send defer: 5
+2024-08-16 13:47:39 INFO handle sender defer: 5
+2024-08-16 13:47:39 INFO send defer: 6
+2024-08-16 13:47:39 INFO handle sender defer: 6
+2024-08-16 13:47:39 INFO send defer: 7
+2024-08-16 13:47:39 INFO handle sender defer: 7
+2024-08-16 13:47:40 INFO Uploaded file /tmp/tmprf1v0d9wwandb/sh4ocju6-wandb-metadata.json
+2024-08-16 13:47:40 INFO file/dir modified: /home/fpkest/Mestrado/epymarl/wandb/offline-run-20240815_140348-nhkjwhkw/files/config.yaml
+2024-08-16 13:47:40 INFO file/dir modified: /home/fpkest/Mestrado/epymarl/wandb/offline-run-20240815_140348-nhkjwhkw/files/wandb-summary.json
+2024-08-16 13:47:40 INFO file/dir created: /home/fpkest/Mestrado/epymarl/wandb/offline-run-20240815_140348-nhkjwhkw/files/output.log
+2024-08-16 13:47:41 INFO send defer: 8
+2024-08-16 13:47:41 INFO handle sender defer: 8
+2024-08-16 13:47:41 INFO Attempting to build job artifact
+2024-08-16 13:47:41 WARNING No requirements.txt found, not creating job artifact. See https://docs.wandb.ai/guides/launch/create-job
+2024-08-16 13:47:41 INFO send defer: 9
+2024-08-16 13:47:41 INFO handle sender defer: 9
+2024-08-16 13:47:41 INFO shutting down directory watcher
+2024-08-16 13:47:42 INFO file/dir modified: /home/fpkest/Mestrado/epymarl/wandb/offline-run-20240815_140348-nhkjwhkw/files/output.log
+2024-08-16 13:47:42 INFO scan: /home/fpkest/Mestrado/epymarl/wandb/offline-run-20240815_140348-nhkjwhkw/files
+2024-08-16 13:47:42 INFO scan save: /home/fpkest/Mestrado/epymarl/wandb/offline-run-20240815_140348-nhkjwhkw/files/config.yaml config.yaml
+2024-08-16 13:47:42 INFO scan save: /home/fpkest/Mestrado/epymarl/wandb/offline-run-20240815_140348-nhkjwhkw/files/output.log output.log
+2024-08-16 13:47:42 INFO scan save: /home/fpkest/Mestrado/epymarl/wandb/offline-run-20240815_140348-nhkjwhkw/files/wandb-metadata.json wandb-metadata.json
+2024-08-16 13:47:42 INFO scan save: /home/fpkest/Mestrado/epymarl/wandb/offline-run-20240815_140348-nhkjwhkw/files/wandb-summary.json wandb-summary.json
+2024-08-16 13:47:42 INFO send defer: 10
+2024-08-16 13:47:42 INFO handle sender defer: 10
+2024-08-16 13:47:42 INFO shutting down file pusher
+2024-08-16 13:47:42 INFO shutting down sender
+2024-08-16 13:47:42 INFO shutting down file pusher
+2024-08-16 13:47:42 INFO waiting for file pusher
+2024-08-16 13:47:42 INFO Uploaded file /home/fpkest/Mestrado/epymarl/wandb/offline-run-20240815_140348-nhkjwhkw/files/output.log
+2024-08-16 13:47:42 INFO Uploaded file /home/fpkest/Mestrado/epymarl/wandb/offline-run-20240815_140348-nhkjwhkw/files/wandb-summary.json
+2024-08-16 13:47:42 INFO Uploaded file /home/fpkest/Mestrado/epymarl/wandb/offline-run-20240815_140348-nhkjwhkw/files/config.yaml
+2024-08-16 13:47:43 INFO send defer: 11
+2024-08-16 13:47:43 INFO file stream finish called
+2024-08-16 13:47:44 INFO file stream finish is done

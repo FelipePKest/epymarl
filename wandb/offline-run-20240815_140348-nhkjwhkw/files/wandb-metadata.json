@@ -1,0 +1,114 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2024-08-15T17:03:48.910884",
+    "startedAt": "2024-08-15T17:03:48.789003",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--config=qmix",
+        "--env-config=gymma",
+        "with",
+        "env_args.time_limit=50",
+        "env_args.key=lbforaging:Foraging-8x8-2p-3f-v3"
+    ],
+    "state": "running",
+    "program": "/home/fpkest/Mestrado/epymarl/src/main.py",
+    "codePathLocal": "src/main.py",
+    "codePath": "src/main.py",
+    "git": {
+        "remote": "https://github.com/uoe-agents/epymarl.git",
+        "commit": "d9785f99ab8ded97d90be651d34b3b973ccc92dd"
+    },
+    "email": "fpkest@gmail.com",
+    "root": "/home/fpkest/Mestrado/epymarl",
+    "host": "DESKTOP-H2QKL96",
+    "username": "fpkest",
+    "executable": "/usr/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3192.010999999999,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3192.011,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3192.011,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3192.011,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3192.011,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3192.011,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3192.011,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3192.011,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3192.011,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3192.011,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3192.011,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3192.011,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3192.011,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 65.96444320678711
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1060 6GB",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1060 6GB",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 7.727775573730469
+    }
+}
